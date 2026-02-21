@@ -1,9 +1,11 @@
 # Hi, I'm Jungmo 👋
 
 ### Profile
-- Backend Engineer at KB Bank Campaign System Part
+- 2026.03 ~ : Data Engineer at TossBank
+- 2020.07 ~ 2026.02 : Kookmin Bank
+  - 2024.10 ~ 2026.02 : Backend Developer
+  - 2023.03 ~ 2024.09 : Data Engineer
+  - 2020.07 ~ 2023.02 : Data Analyst
 
 ### Social
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-View-0A66C2?logo=linkedin)](https://www.linkedin.com/in/jungmob1024/)
-- [![Main Space](https://img.shields.io/badge/Confluence%20Space%20Main-View-0A66C2?logo=confluence)](https://jungmob1024.atlassian.net/wiki/spaces/~jungmobae/overview)
-- [![Dev-study Space](https://img.shields.io/badge/Confluence%20Space%20Dev--study-View-0A66C2?logo=confluence)](https://jungmob1024.atlassian.net/wiki/spaces/devstudy/overview)
